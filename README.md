@@ -22,7 +22,7 @@ Technologies:
 
 - Front-end: React, Tailwind CSS, Axios
   
-- Back-end: Node.js, MongoDB
+- Back-end: Node.js, MongoDB, Postman
 
 APIs:
 
