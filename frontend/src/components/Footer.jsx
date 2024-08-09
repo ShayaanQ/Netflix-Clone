@@ -11,7 +11,7 @@ const Footer = () => {
 					>
 						Shayaan Qureshi
 					</a>
-					. The source code is available on{" "}
+					. The source code is on{" "}
 					<a
 						href='https://github.com/ShayaanQ/Netflix-Clone'
 						target='_blank'
