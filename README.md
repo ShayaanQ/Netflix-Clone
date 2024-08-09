@@ -6,32 +6,37 @@ Live Demo:
 
 Experience Netflix Clone in action: https://netflix-clone-jhzc.onrender.com
 
-- Features:
+Features:
 
-  User Authentication: Secure login and registration.
+- User Authentication: Secure login and registration.
   
-  Movie Listings: Browses movies and TV shows.
+- Movie Listings: Browses movies and TV shows.
   
-  Trending Content: Displays trending movies and shows.
+- Trending Content: Displays trending movies and shows.
   
-  Related Content: Shows related content based on user preferences.
+- Related Content: Shows related content based on user preferences.
   
-  Responsive Design: Built with Tailwind CSS for a modern UI.
+- Responsive Design: Built with Tailwind CSS for a modern UI.
 
-- Technologies:
+Technologies:
 
-  Front-end: React, Tailwind CSS, Axios
+- Front-end: React, Tailwind CSS, Axios
   
-  Back-end: Node.js, MongoDB
+- Back-end: Node.js, MongoDB
 
-- APIs:
-  TMDB API: For movie and TV show data.
+APIs:
 
-  OMDb API: For additional movie metadata.
+- TMDB API: For movie and TV show data.
+
+- OMDb API: For additional movie metadata.
   
-  YouTube Data API: For embedding trailers and related videos.
+- YouTube Data API: For embedding trailers and related videos.
   
-  Hosting: Render
+Hosting: 
 
-- License: This project is licensed under the MIT License.
+- Render
+
+License: 
+
+- This project is licensed under the MIT License.
 
