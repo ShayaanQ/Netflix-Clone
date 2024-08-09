@@ -12,7 +12,7 @@ Features:
   
 - Movie Listings: Browses movies and TV shows.
   
-- Trending Content: Displays trending movies and shows.
+- Trending Content: Displays trending movies and shows with embedded videos from Youtube Data API.
   
 - Related Content: Shows related content based on user preferences.
   
